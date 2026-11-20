@@ -1,0 +1,8 @@
+plant_id,plant_name,city,state,facility_type,monthly_capacity_units
+PLANT_CHN_01,Chennai Heavy Engineering Plant,Chennai,Tamil Nadu,Automotive Assembly,25000
+PLANT_CHN_02,Sriperumbudur Stamping & Press Plant,Sriperumbudur,Tamil Nadu,Metal Fabrication,40000
+PLANT_PUN_01,Pune Powertrain & Engine Plant,Pune,Maharashtra,Engine & Transmission,18000
+PLANT_BLR_01,Bengaluru Precision Components Hub,Bengaluru,Karnataka,Electronics & Sensors,35000
+PLANT_MDU_01,Madurai Fasteners & Forgings Unit,Madurai,Tamil Nadu,Forging & Fasteners,30000
+PLANT_CBE_01,Coimbatore Precision Hydraulics Plant,Coimbatore,Tamil Nadu,Pumps & Hydraulics,22000
+PLANT_MAN_01,Manesar Vehicle Assembly Line,Manesar,Haryana,Final Assembly,28000

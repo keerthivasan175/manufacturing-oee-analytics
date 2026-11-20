@@ -1,0 +1,4 @@
+shift_id,shift_name,start_time,end_time,shift_duration_minutes,shift_lead
+SHF_01,Shift 1 (Morning),06:00:00,14:00:00,480,Thirumalai / Supervisor A
+SHF_02,Shift 2 (Evening),14:00:00,22:00:00,480,Karthik / Supervisor B
+SHF_03,Shift 3 (Night),22:00:00,06:00:00,480,Selvaraj / Supervisor C

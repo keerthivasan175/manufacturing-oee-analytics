@@ -1,0 +1,16 @@
+part_id,part_name,category,material,standard_unit_cost
+PRT_001,Forged Connecting Rod,Engine Components,Alloy Steel,450
+PRT_002,Cast Iron Cylinder Block,Engine Components,Cast Iron,4200
+PRT_003,Aluminium Cylinder Head,Engine Components,Aluminium Alloy,3100
+PRT_004,Automotive Crankshaft (4-Cylinder),Powertrain,Forged Steel,5400
+PRT_005,High-Tensile Camshaft,Powertrain,Chilled Cast Iron,1850
+PRT_006,Precision Spur Gear (Transmission),Transmission,Case-Hardened Steel,820
+PRT_007,Helical Pinion Shaft,Transmission,Alloy Steel,1250
+PRT_008,Heavy-Duty Clutch Pressure Plate,Transmission,Ductile Iron,2100
+PRT_009,Ventilated Brake Disc Rotor,Braking System,Grey Cast Iron,950
+PRT_010,Brake Caliper Housing Unit,Braking System,Aluminium Alloy,1400
+PRT_011,Front Suspension Lower Control Arm,Chassis & Suspension,Forged Steel,1650
+PRT_012,Rack and Pinion Steering Gearbox,Steering System,Cast Steel,3800
+PRT_013,High-Pressure Common Rail Injector,Fuel System,Special Alloy,4900
+PRT_014,Exhaust Manifold with Catalytic Flange,Exhaust System,Stainless Steel,2300
+PRT_015,Precision Hydraulic Valve Body,Hydraulics,Aluminium Alloy,1750

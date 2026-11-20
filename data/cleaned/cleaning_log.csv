@@ -1,0 +1,15 @@
+,rows affected
+01 raw rows loaded,115025
+02 duplicate rows removed,1363
+03 rows dropped: bad / out-of-range date,55
+04 rows dropped: unknown plant / machine key,173
+05 fixed: planned time blank -> 480,430
+06 fixed: negative scrap units,220
+07 fixed: run time blank,871
+08 fixed: downtime inconsistent with run time,214
+09 fixed: actual units 10x typo,44
+10 fixed: good units blank / wrong,910
+11 fixed: unit cost blank,572
+12 unit cost that disagreed with part master,0
+13 fixed: scrap cost blank,928
+14 scrap cost that disagreed with the formula,0

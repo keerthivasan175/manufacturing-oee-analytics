@@ -1,0 +1,11 @@
+machine_id,machine_name,operation_type,line_allocation,installation_year,rated_availability_pct
+MCH_CNC_01,Makino 5-Axis VMC Milling Center,Milling,CNC Milling Line 1,2019,98.5
+MCH_CNC_02,Doosan High-Torque CNC Lathe,Turning,CNC Lathe Line 1,2021,99.0
+MCH_CNC_03,Mazak Precision Horizontal Machining Center,HMC,CNC Milling Line 2,2022,99.2
+MCH_PRS_01,Schuler 1000T Mechanical Stamping Press,Stamping,Press Shop Line A,2018,97.0
+MCH_PRS_02,Komatsu 600T Hydraulic Forming Press,Stamping,Press Shop Line B,2020,98.0
+MCH_FRG_01,SMS 2500T Closed-Die Forging Hammer,Forging,Forging Cell 1,2017,96.5
+MCH_CST_01,Buhler High-Pressure Die Casting 800T,Die Casting,Foundry Cell 1,2021,97.8
+MCH_GRN_01,Studer Precision Cylindrical Grinder,Grinding,Finishing Line 1,2022,99.5
+MCH_ROB_01,ABB 6-Axis Robotic Arc Welding Cell,Welding,Robotic Assembly Line,2023,99.1
+MCH_HTR_01,Aichelin Continuous Induction Heat Treatment,Heat Treatment,Thermal Cell 1,2019,97.5
